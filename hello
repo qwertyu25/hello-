@@ -2,4 +2,6 @@
 void main()
 {
    print("hello...!!!");
+   
+   print("\tins is basic program")
 }
